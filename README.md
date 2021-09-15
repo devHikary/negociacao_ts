@@ -36,3 +36,11 @@ Instrutor: Flavio Henrique de Souza Almeida
 - Mais configurações do compilador tsc
 - Retorno de método explícito
 - Conversão de valores da interface do usuário
+### Aula 4
+
+- Modelagem da classe Negociacoes
+- Utiliação de Generics
+- Revisão sobre encapsulamento
+- Questões de mutabilidade e como solucioná-la
+- O tipo ReadonlyArray
+- Adição de negociações em nossa lista
