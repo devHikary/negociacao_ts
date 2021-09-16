@@ -77,3 +77,9 @@ Implementar um microframework para atualizar a view.
 - Manipulação declarativa do DOM através de template
 - Template dinâmico
 - Formatação de datas usando Intl
+### Aula 2
+
+- Herança com TypeScript
+- Classes com tipo genérico
+- Classes abstratas
+- O modificador protected
