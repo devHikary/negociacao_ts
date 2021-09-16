@@ -51,3 +51,29 @@ Instrutor: Flavio Henrique de Souza Almeida
 - O modificador readonly
 - Getters vs propriedades públicas em modo de leitura
 - Programação defensiva
+
+
+# TypeScript parte 2: Avançando na linguagem
+
+Curso da Plataforma Alura
+
+Instrutor: Flavio Henrique de Souza Almeida
+
+Implementar um microframework para atualizar a view.
+
+[Curso Online TypeScript parte 2: Avançando na linguagem | Alura](https://cursos.alura.com.br/course/typescript-avancando-linguagem)
+
+## 🛠️ Abrir e rodar o projeto
+
+- Clonar o projeto
+- Entrar na pasta do projeto
+- Rodar o comando `npm run start`
+
+## 🗒️ Tópicos da aula
+
+### Aula 1
+
+- Inpiração no React para criação de templates declarativos e dinâmicos
+- Manipulação declarativa do DOM através de template
+- Template dinâmico
+- Formatação de datas usando Intl
