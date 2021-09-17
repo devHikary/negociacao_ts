@@ -83,3 +83,9 @@ Implementar um microframework para atualizar a view.
 - Classes com tipo genérico
 - Classes abstratas
 - O modificador protected
+### Aula 3
+
+- Visibilidade de métodos
+- Validando negociações em dias úteis
+- Vantagens do uso de enums
+- Cuidados com enums
