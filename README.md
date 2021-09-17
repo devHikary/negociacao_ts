@@ -89,3 +89,8 @@ Implementar um microframework para atualizar a view.
 - Validando negociações em dias úteis
 - Vantagens do uso de enums
 - Cuidados com enums
+### Aula 4
+
+- Revisão da lógica de conversão negociações
+- Método estáticos
+- Parâmetros opcionais
